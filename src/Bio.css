@@ -1,0 +1,13 @@
+.bio-container {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bio-container h2 {
+    color: #007bff;
+  }
+  
